@@ -1,7 +1,8 @@
 # Webscapper
 
-Find a job(python) in 3 websites
+Find a job(tag : python) in 3 websites
 
-Using bs4(Beautiful Soup) and Flask [Html]
+Using bs4(Beautiful Soup) and Flask
+storing with csv ; fake database [Python]
 
-resulting with CSV ; fake database [Python]
+Showing on Website by .CSV [Html]
